@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "glob": "^7.1.6",
+    "image-js": "^0.31.1",
+    "sharp": "^0.26.3"
+  }
+}
